@@ -23,5 +23,5 @@ p6df::modules::intacct::deps() {
 ######################################################################
 p6df::modules::intacct::profile::mod() {
 
-  p6_return_words 'intacct' "$"
+  p6_return_words 'intacct' '$INTACCT_API_KEY'
 }
