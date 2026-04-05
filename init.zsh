@@ -13,10 +13,10 @@ p6df::modules::intacct::deps() {
 ######################################################################
 #<
 #
-# Function: words intacct $INTACCT_API_KEY = p6df::modules::intacct::profile::mod()
+# Function: words intacct = p6df::modules::intacct::profile::mod()
 #
 #  Returns:
-#	words - intacct $INTACCT_API_KEY
+#	words - intacct
 #
 #  Environment:	 INTACCT_API_KEY
 #>

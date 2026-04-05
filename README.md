@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-intacct/init.zsh
 
 - `p6df::modules::intacct::deps()`
-- `words intacct $INTACCT_API_KEY = p6df::modules::intacct::profile::mod()`
+- `words intacct = p6df::modules::intacct::profile::mod()`
 
 ## Hierarchy
 
